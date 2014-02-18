@@ -1,0 +1,194 @@
+﻿<Window  x:Class="SingDictionaryWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:l="clr-namespace:SingDictionaryWPF"         
+        xmlns:windowsForms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms"
+        xmlns:activeXControl="clr-namespace:AxWMPLib;assembly=AxInterop.WMPLib"         
+         x:Name="MainWin"
+         ResizeMode="CanResizeWithGrip"
+        Title="Slovník slovenského posunkového jazyka - Slovenský jazyk a literatúra" Height="550" Width="800" MinWidth="800" MinHeight="550" Loaded="Window_Loaded_1" Background="White">
+    <Window.Resources>
+        <!--<l:NullToVisibilityConverter x:Key="NullToVisibilityConverter" />-->
+
+        <Style x:Key="HyperlinkLikeButton" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <ContentPresenter />
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}" />
+            <Setter Property="Cursor" Value="Hand" />
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="true">
+                    <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.HighlightBrushKey}}" />
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="Button">
+                                <ControlTemplate.Resources>
+                                    <Style TargetType="{x:Type TextBlock}">
+                                        <Setter Property="TextDecorations" Value="Underline" />
+                                    </Style>
+                                </ControlTemplate.Resources>
+                                <ContentPresenter />
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+    </Window.Resources>
+
+
+
+    
+    <DockPanel  Margin="0">
+        <StatusBar DockPanel.Dock="Bottom" Height="23" Name="statusBar1"  />
+
+
+
+        <DockPanel Margin="0,0,0,5" Height="48" DockPanel.Dock="Top" HorizontalAlignment="Stretch">
+            <Image Canvas.Left="17"   
+                   Name="image1" 
+                   Stretch="Fill" 
+                   Margin="15,0,15,0"
+                   Width="43" 
+                   Source="/SlovnikSPJ;component/Images/ruka.png" />
+            <Label Content="Slovník slovenského posunkového jazyka - Slovenský jazyk a literatúra" Foreground="White"  FontSize="18" FontWeight="Light" FontFamily="Segoe UI"  Target="{Binding}" IsEnabled="False" FontStyle="Normal" Height="auto" VerticalAlignment="Center" Margin="0,0,0,0" Padding="0,0,0,0" />
+            <Button DockPanel.Dock="Right" Margin="0,0,15,0" HorizontalAlignment="Right" Width="auto" Style="{StaticResource HyperlinkLikeButton}" Height="18" Name="buttonAbout"  BorderBrush="{x:Null}" Foreground="White" FontSize="14" FontWeight="Light" Click="buttonAbout_Click">
+                <TextBlock>O slovníku</TextBlock>
+            </Button>
+            <!--<Canvas.Background>
+                <ImageBrush  ImageSource="/SingDictionaryWPF;component/Images/tapeta2.jpg" Stretch="None" TileMode="None" AlignmentX="Left" />
+            </Canvas.Background>-->
+
+
+            <DockPanel.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF387BBE" Offset="0" />
+                    <GradientStop Color="#FF144D86" Offset="1" />
+                </LinearGradientBrush>
+            </DockPanel.Background>
+
+        </DockPanel>
+        
+        <StackPanel Margin="10,3,10,2" Width="230" x:Name="MainControl" DockPanel.Dock="Left">
+
+
+            <Label Content="Abeceda" Height="28" Name="label1" FontWeight="Normal" FontStyle="Normal" FontStretch="Normal" FontSize="13" />
+            
+            <WrapPanel x:Name="AlphabetWrap" Margin="0,0,0,15" />                
+            
+            <DockPanel>
+                <Label DockPanel.Dock="Left" Content="Kategória"  Width="87" Height="28" Name="label3" FontWeight="Normal" FontSize="13" />
+                <ComboBox DockPanel.Dock="Right" Height="23" Width="140" Name="comboBoxCategory" SelectionChanged="comboBoxCategory_SelectionChanged" ItemsSource="{Binding Categories}" SelectedItem="{Binding SelectedCategory}" />                    
+                
+            </DockPanel>
+
+            <DockPanel Margin="0,0,0,10">
+                <Label DockPanel.Dock="Left" IsEnabled="False" Content="Podkategória" Width="87" Height="28" Name="labelSubcategory" FontWeight="Normal" FontSize="13" />
+                <ComboBox DockPanel.Dock="Right" IsEnabled="False" Width="140" Height="23" Name="comboBoxSubcategory" ItemsSource="{Binding Subcategories}" SelectedItem="{Binding SelectedSubcategory}" SelectionChanged="comboBoxSubcategory_SelectionChanged" />                                   
+            </DockPanel>
+            
+            <Label Content="Zoznam slov" Height="28" Name="label2" FontWeight="Normal" FontSize="13" />
+            <TextBox Height="23" x:Name="textBoxSearch" Text="hľadaj" Foreground="#FFB0B0B0" PreviewMouseDown="textBoxSearch_PreviewMouseDown" LostFocus="textBoxSearch_LostFocus" PreviewKeyDown="textBoxSearch_PreviewKeyDown" />
+            <ListBox HorizontalAlignment="Left" VerticalAlignment="Stretch" ItemsSource="{Binding CurrentWordsSel}" Name="wordsListBox" Width="230"  SelectionChanged="wordsListBox_SelectionChanged" Height="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type StackPanel}}, Path=ActualHeight, Converter={l:HeightConverter},ConverterParameter=235}"  />               
+            
+        </StackPanel>
+
+        <StackPanel Margin="0,0,19,10" Width="auto" x:Name="SideControl" DockPanel.Dock="Bottom">
+            <DockPanel Height="35">
+                <Label Margin="0,0,0,1" VerticalAlignment="Bottom" Content="Slovo:"  Name="label5" />
+                <Label VerticalAlignment="Bottom" x:Name="SelectedWordLabel" HorizontalAlignment="Left" Content="{Binding SelectedWord.Name}" DockPanel.Dock="Left"  Width="476" FontWeight="Bold" FontSize="16" />
+            </DockPanel>
+            
+            <!--<DockPanel>
+                <Label Content="Variant:" Height="28" Name="label6" />
+                <Label  x:Name="SelectedWordVersion" Content="{Binding SelectedVideo.version,Mode=OneWay, Converter={l:RegionConverter}}" DockPanel.Dock="Left" Height="28"  />
+            </DockPanel>-->
+
+            <StackPanel  Orientation="Horizontal">
+                <Label Content="Pohľad:" VerticalAlignment="Center" Height="28" Name="labelsd"  />
+                <Button HorizontalAlignment="Left"  Margin="0,0,0,0" Content="Pohľad z boku" Height="23" Name="buttonSwitchView"  Click="button1_Click" />
+            </StackPanel>
+
+            
+            <StackPanel  Orientation="Horizontal">
+                <Label Content="Variant:" VerticalAlignment="Center" Height="28" Name="label9"  />
+                <ItemsControl ItemsSource="{Binding SelectedWord.VideoDict.Keys}" x:Name="regionsList">
+                    <ItemsControl.ItemsPanel>
+                        <ItemsPanelTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,0,0,0" />
+                        </ItemsPanelTemplate>
+                    </ItemsControl.ItemsPanel>
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate >
+                            <RadioButton Command="{Binding ChangeRegionCommand, ElementName=MainWin}" CommandParameter="{Binding Path=.}" VerticalAlignment="Center"  Margin="0,0,5,0" GroupName="region"  HorizontalAlignment="Left" Style="{StaticResource {x:Type ToggleButton}}" Content="{Binding Converter={l:RegionConverter}}" >
+                                <RadioButton.IsChecked>
+                                    <MultiBinding Converter="{l:InstanceToBooleanConverter}" Mode="OneWay">
+                                        <Binding Path="." />
+                                        <Binding Path="SelectedVideo.version" ElementName="MainWin"/>
+                                    </MultiBinding>
+                                </RadioButton.IsChecked>
+                            </RadioButton>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>                
+            </StackPanel>
+            
+            
+            
+        </StackPanel>
+        
+        
+        
+        <Grid Margin="0,7,0,0" >          
+
+            <!--<Controls:FileDialog x:Name="fileDialog" />-->
+            
+            <Grid x:Name="grid"
+              Background="{x:Null}" Margin="0,0,10,0">
+                
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />                    
+                </Grid.RowDefinitions>
+                    
+                <!--
+                <Border HorizontalAlignment="Stretch"
+                        Grid.Row="0"
+                    VerticalAlignment="Stretch"
+                    Width="Auto"
+                    Height="Auto"
+                    Background="#FF000000">                   
+                </Border>-->
+                
+                <Border x:Name="mediaPlayerContainer"
+                    HorizontalAlignment="Stretch"
+                    VerticalAlignment="Stretch"
+                    Width="Auto"
+                    Height="Auto">
+                    <!--Source="{Binding ElementName=fileDialog, Path=FilePath}"-->
+                    
+                    <WindowsFormsHost x:Name="winFormsHost">
+                        <activeXControl:AxWindowsMediaPlayer x:Name="mediaPlayer"   />
+                    </WindowsFormsHost>
+                    
+                    
+                    <!--<DirectShowControls:MediaUriElement x:Name="mediaPlayer"
+                                                    Volume="1"            
+                                                        
+                                                    Stretch="Uniform"
+                                                    VideoRenderer="VideoMixingRenderer9"
+                                                    LoadedBehavior="Pause"
+                                                    SpeedRatio="0.5"
+                                                    Loop="false"/>-->
+                </Border>
+              
+            </Grid>
+        </Grid>
+        
+    </DockPanel>
+   
+</Window>

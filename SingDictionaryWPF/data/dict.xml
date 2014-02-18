@@ -1,0 +1,1552 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Dictionary>
+  <Word>
+    <Name>abeceda</Name>
+    <FirstLetter>a</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="abeceda - A1.avi" version="BA"/>
+      <Video orientation="side" path="abeceda - A2.avi" version="BA"/>
+      <Video orientation="front" path="abeceda - B1.avi" version="KR"/>
+      <Video orientation="side" path="abeceda - B2.avi" version="KR"/>
+      <Video orientation="front" path="abeceda - C1.avi" version="PO"/>
+      <Video orientation="side" path="abeceda - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>abstrakcia</Name>
+    <FirstLetter>a</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="abstrakcia - A1.avi" version="BA"/>
+      <Video orientation="side" path="abstrakcia - A2.avi" version="BA"/>
+      <Video orientation="front" path="abstrakcia - B1.avi" version="KR"/>
+      <Video orientation="side" path="abstrakcia - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>adresát</Name>
+    <FirstLetter>a</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="adresát - A1.avi" version="BA"/>
+      <Video orientation="side" path="adresát - A2.avi" version="BA"/>
+      <Video orientation="front" path="adresát - B1.avi" version="KR"/>
+      <Video orientation="side" path="adresát - B2.avi" version="KR"/>
+      <Video orientation="front" path="adresát - C1.avi" version="PO"/>
+      <Video orientation="side" path="adresát - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>akuzatív</Name>
+    <FirstLetter>a</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="akuzatív - A1.avi" version="BA"/>
+      <Video orientation="side" path="akuzatív - A2.avi" version="BA"/>
+      <Video orientation="front" path="akuzatív - B1.avi" version="KR"/>
+      <Video orientation="side" path="akuzatív - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>antonymá</Name>
+    <FirstLetter>a</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="antonymá - A1.avi" version="BA"/>
+      <Video orientation="side" path="antonymá - A2.avi" version="BA"/>
+      <Video orientation="front" path="antonymá - B1.avi" version="KR"/>
+      <Video orientation="side" path="antonymá - B2.avi" version="KR"/>
+      <Video orientation="front" path="antonymá - C1.avi" version="PO"/>
+      <Video orientation="side" path="antonymá - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>autor, spisovateľ</Name>
+    <FirstLetter>a</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="autor, spisovateľ - A1.avi" version="BA"/>
+      <Video orientation="side" path="autor, spisovateľ - A2.avi" version="BA"/>
+      <Video orientation="front" path="autor, spisovateľ - B1.avi" version="KR"/>
+      <Video orientation="side" path="autor, spisovateľ - B2.avi" version="KR"/>
+      <Video orientation="front" path="autor, spisovateľ - C1.avi" version="PO"/>
+      <Video orientation="side" path="autor, spisovateľ - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>balada</Name>
+    <FirstLetter>b</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="balada - A1.avi" version="BA"/>
+      <Video orientation="side" path="balada - A2.avi" version="BA"/>
+      <Video orientation="front" path="balada - B1.avi" version="KR"/>
+      <Video orientation="side" path="balada - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>budúci čas</Name>
+    <FirstLetter>b</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="budúci čas - A1.avi" version="BA"/>
+      <Video orientation="side" path="budúci čas - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>bábkové divadlo</Name>
+    <FirstLetter>b</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="bábkové divadlo - A1.avi" version="BA"/>
+      <Video orientation="side" path="bábkové divadlo - A2.avi" version="BA"/>
+      <Video orientation="front" path="bábkové divadlo - B1.avi" version="KR"/>
+      <Video orientation="side" path="bábkové divadlo - B2.avi" version="KR"/>
+      <Video orientation="front" path="bábkové divadlo - C1.avi" version="PO"/>
+      <Video orientation="side" path="bábkové divadlo - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>bájka</Name>
+    <FirstLetter>b</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="bájka - A1.avi" version="BA"/>
+      <Video orientation="side" path="bájka - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>báseň</Name>
+    <FirstLetter>b</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="báseň - A1.avi" version="BA"/>
+      <Video orientation="side" path="báseň - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>datív</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="datív - A1.avi" version="BA"/>
+      <Video orientation="side" path="datív - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>denník</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="denník - A1.avi" version="BA"/>
+      <Video orientation="side" path="denník - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>dialóg</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="dialóg - A1.avi" version="BA"/>
+      <Video orientation="side" path="dialóg - A2.avi" version="BA"/>
+      <Video orientation="front" path="dialóg - B1.avi" version="KR"/>
+      <Video orientation="side" path="dialóg - B2.avi" version="KR"/>
+      <Video orientation="front" path="dialóg - C1.avi" version="PO"/>
+      <Video orientation="side" path="dialóg - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>dievča</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="dievča - A1.avi" version="BA"/>
+      <Video orientation="side" path="dievča - A2.avi" version="BA"/>
+      <Video orientation="front" path="dievča - B1.avi" version="KR"/>
+      <Video orientation="side" path="dievča - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>diktát</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="diktát - A1.avi" version="BA"/>
+      <Video orientation="side" path="diktát - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>dlaň</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="dlaň - A1.avi" version="BA"/>
+      <Video orientation="side" path="dlaň - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>dokonavý vid</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="dokonavý vid - A1.avi" version="BA"/>
+      <Video orientation="side" path="dokonavý vid - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>doplňovacie cvičenie</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="doplňovacie cvičenie - A1.avi" version="BA"/>
+      <Video orientation="side" path="doplňovacie cvičenie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>dráma</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="dráma - A1.avi" version="BA"/>
+      <Video orientation="side" path="dráma - A2.avi" version="BA"/>
+      <Video orientation="front" path="dráma - B1.avi" version="KR"/>
+      <Video orientation="side" path="dráma - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>dub</Name>
+    <FirstLetter>d</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="dub - A1.avi" version="BA"/>
+      <Video orientation="side" path="dub - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>elektronické knihy</Name>
+    <FirstLetter>e</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="elektronické knihy - A1.avi" version="BA"/>
+      <Video orientation="side" path="elektronické knihy - A2.avi" version="BA"/>
+      <Video orientation="front" path="elektronické knihy - B1.avi" version="KR"/>
+      <Video orientation="side" path="elektronické knihy - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>epika</Name>
+    <FirstLetter>e</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="epika - A1.avi" version="BA"/>
+      <Video orientation="side" path="epika - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>fikcia</Name>
+    <FirstLetter>f</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="fikcia - A1.avi" version="BA"/>
+      <Video orientation="side" path="fikcia - A2.avi" version="BA"/>
+      <Video orientation="front" path="fikcia - B1.avi" version="KR"/>
+      <Video orientation="side" path="fikcia - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>fráza</Name>
+    <FirstLetter>f</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="fráza - A1.avi" version="BA"/>
+      <Video orientation="side" path="fráza - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>genitív</Name>
+    <FirstLetter>g</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="genitív - A1.avi" version="BA"/>
+      <Video orientation="side" path="genitív - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>gramatika</Name>
+    <FirstLetter>g</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="gramatika - A1.avi" version="BA"/>
+      <Video orientation="side" path="gramatika - A2.avi" version="BA"/>
+      <Video orientation="front" path="gramatika - B1.avi" version="KR"/>
+      <Video orientation="side" path="gramatika - B2.avi" version="KR"/>
+      <Video orientation="front" path="gramatika - C1.avi" version="PO"/>
+      <Video orientation="side" path="gramatika - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>herec</Name>
+    <FirstLetter>h</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="herec - A1.avi" version="BA"/>
+      <Video orientation="side" path="herec - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>hláska</Name>
+    <FirstLetter>h</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="hláska - A1.avi" version="BA"/>
+      <Video orientation="side" path="hláska - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>holá veta</Name>
+    <FirstLetter>h</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="holá veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="holá veta - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>homonymá</Name>
+    <FirstLetter>h</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="homonymá - A1.avi" version="BA"/>
+      <Video orientation="side" path="homonymá - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>hrdina</Name>
+    <FirstLetter>h</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="hrdina - A1.avi" version="BA"/>
+      <Video orientation="side" path="hrdina - A2.avi" version="BA"/>
+      <Video orientation="front" path="hrdina - B1.avi" version="KR"/>
+      <Video orientation="side" path="hrdina - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>inštrumentál</Name>
+    <FirstLetter>i</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="inštrumentál - A1.avi" version="BA"/>
+      <Video orientation="side" path="inštrumentál - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>jadro</Name>
+    <FirstLetter>j</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="jadro - A1.avi" version="BA"/>
+      <Video orientation="side" path="jadro - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>jednoduchá veta</Name>
+    <FirstLetter>j</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="jednoduchá veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="jednoduchá veta - A2.avi" version="BA"/>
+      <Video orientation="front" path="jednoduchá veta - B1.avi" version="KR"/>
+      <Video orientation="side" path="jednoduchá veta - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>jednotné číslo</Name>
+    <FirstLetter>j</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="jednotné číslo - A1.avi" version="BA"/>
+      <Video orientation="side" path="jednotné číslo - A2.avi" version="BA"/>
+      <Video orientation="front" path="jednotné číslo - B1.avi" version="KR"/>
+      <Video orientation="side" path="jednotné číslo - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>kniha</Name>
+    <FirstLetter>k</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="kniha - A1.avi" version="BA"/>
+      <Video orientation="side" path="kniha - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>komiks</Name>
+    <FirstLetter>k</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="komiks - A1.avi" version="BA"/>
+      <Video orientation="side" path="komiks - A2.avi" version="BA"/>
+      <Video orientation="front" path="komiks - B1.avi" version="KR"/>
+      <Video orientation="side" path="komiks - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>komédia</Name>
+    <FirstLetter>k</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="komédia - A1.avi" version="BA"/>
+      <Video orientation="side" path="komédia - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>koncept</Name>
+    <FirstLetter>k</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="koncept - A1.avi" version="BA"/>
+      <Video orientation="side" path="koncept - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>konkrétne podstatné mená</Name>
+    <FirstLetter>k</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="konkrétne podstatné mená - A1.avi" version="BA"/>
+      <Video orientation="side" path="konkrétne podstatné mená - A2.avi" version="BA"/>
+      <Video orientation="front" path="konkrétne podstatné mená - B1.avi" version="KR"/>
+      <Video orientation="side" path="konkrétne podstatné mená - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>kosť</Name>
+    <FirstLetter>k</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="kosť - A1.avi" version="BA"/>
+      <Video orientation="side" path="kosť - A2.avi" version="BA"/>
+      <Video orientation="front" path="kosť - B1.avi" version="KR"/>
+      <Video orientation="side" path="kosť - B2.avi" version="KR"/>
+      <Video orientation="front" path="kosť - C1.avi" version="PO"/>
+      <Video orientation="side" path="kosť - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>legenda</Name>
+    <FirstLetter>l</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="legenda - A1.avi" version="BA"/>
+      <Video orientation="side" path="legenda - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>literatúra</Name>
+    <FirstLetter>l</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="literatúra - A1.avi" version="BA"/>
+      <Video orientation="side" path="literatúra - A2.avi" version="BA"/>
+      <Video orientation="front" path="literatúra - B1.avi" version="KR"/>
+      <Video orientation="side" path="literatúra - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>lokál</Name>
+    <FirstLetter>l</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="lokál - A1.avi" version="BA"/>
+      <Video orientation="side" path="lokál - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>lyrika</Name>
+    <FirstLetter>l</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="lyrika - A1.avi" version="BA"/>
+      <Video orientation="side" path="lyrika - A2.avi" version="BA"/>
+      <Video orientation="front" path="lyrika - B1.avi" version="KR"/>
+      <Video orientation="side" path="lyrika - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>matkin</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="matkin - A1.avi" version="BA"/>
+      <Video orientation="side" path="matkin - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>melódia</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="melódia - A1.avi" version="BA"/>
+      <Video orientation="side" path="melódia - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>mesto</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="mesto - A1.avi" version="BA"/>
+      <Video orientation="side" path="mesto - A2.avi" version="BA"/>
+      <Video orientation="front" path="mesto - B1.avi" version="KR"/>
+      <Video orientation="side" path="mesto - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>minulý čas</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="minulý čas - A1.avi" version="BA"/>
+      <Video orientation="side" path="minulý čas - A2.avi" version="BA"/>
+      <Video orientation="front" path="minulý čas - B1.avi" version="KR"/>
+      <Video orientation="side" path="minulý čas - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>množné číslo</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="množné číslo - A1.avi" version="BA"/>
+      <Video orientation="side" path="množné číslo - A2.avi" version="BA"/>
+      <Video orientation="front" path="množné číslo - B1.avi" version="KR"/>
+      <Video orientation="side" path="množné číslo - B2.avi" version="KR"/>
+      <Video orientation="front" path="množné číslo - C1.avi" version="PO"/>
+      <Video orientation="side" path="množné číslo - C2.avi" version="PO"/>
+      <Video orientation="front" path="množné číslo - D1.avi" version="PO"/>
+      <Video orientation="side" path="množné číslo - D2.avi" version="PO"/>
+      <Video orientation="front" path="množné číslo - E1.avi" version="PO"/>
+      <Video orientation="side" path="množné číslo - E2.avi" version="PO"/>
+      <Video orientation="front" path="množné číslo - F1.avi" version="PO"/>
+      <Video orientation="side" path="množné číslo - F2.avi" version="PO"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>monológ</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="monológ - A1.avi" version="BA"/>
+      <Video orientation="side" path="monológ - A2.avi" version="BA"/>
+      <Video orientation="front" path="monológ - B1.avi" version="KR"/>
+      <Video orientation="side" path="monológ - B2.avi" version="KR"/>
+      <Video orientation="front" path="monológ - C1.avi" version="PO"/>
+      <Video orientation="side" path="monológ - C2.avi" version="PO"/>
+      <Video orientation="front" path="monológ - D1.avi" version="PO"/>
+      <Video orientation="side" path="monológ - D2.avi" version="PO"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>muzikál</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="muzikál - A1.avi" version="BA"/>
+      <Video orientation="side" path="muzikál - A2.avi" version="BA"/>
+      <Video orientation="front" path="muzikál - B1.avi" version="KR"/>
+      <Video orientation="side" path="muzikál - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>mužský rod</Name>
+    <FirstLetter>m</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="mužský rod - A1.avi" version="BA"/>
+      <Video orientation="side" path="mužský rod - A2.avi" version="BA"/>
+      <Video orientation="front" path="mužský rod - B1.avi" version="KR"/>
+      <Video orientation="side" path="mužský rod - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>nedokonavý vid</Name>
+    <FirstLetter>n</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="nedokonavý vid - A1.avi" version="BA"/>
+      <Video orientation="side" path="nedokonavý vid - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>neohybné slovné druhy</Name>
+    <FirstLetter>n</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="neohybné slovné druhy - A1.avi" version="BA"/>
+      <Video orientation="side" path="neohybné slovné druhy - A2.avi" version="BA"/>
+      <Video orientation="front" path="neohybné slovné druhy - B1.avi" version="KR"/>
+      <Video orientation="side" path="neohybné slovné druhy - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>nepriame pomenovanie</Name>
+    <FirstLetter>n</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="nepriame pomenovanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="nepriame pomenovanie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>neurčitok</Name>
+    <FirstLetter>n</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="neurčitok - A1.avi" version="BA"/>
+      <Video orientation="side" path="neurčitok - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>neznelé spoluhlásky</Name>
+    <FirstLetter>n</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="neznelé spoluhlásky - A1.avi" version="BA"/>
+      <Video orientation="side" path="neznelé spoluhlásky - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>nominatív</Name>
+    <FirstLetter>n</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="nominatív - A1.avi" version="BA"/>
+      <Video orientation="side" path="nominatív - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>obrazné pomenovanie</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="obrazné pomenovanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="obrazné pomenovanie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>odosielateľ</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="odosielateľ - A1.avi" version="BA"/>
+      <Video orientation="side" path="odosielateľ - A2.avi" version="BA"/>
+      <Video orientation="front" path="odosielateľ - B1.avi" version="KR"/>
+      <Video orientation="side" path="odosielateľ - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>odporovacia veta</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="odporovacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="odporovacia veta - A2.avi" version="BA"/>
+      <Video orientation="front" path="odporovacia veta - B1.avi" version="KR"/>
+      <Video orientation="side" path="odporovacia veta - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>ohybné slovné druhy</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="ohybné slovné druhy - A1.avi" version="BA"/>
+      <Video orientation="side" path="ohybné slovné druhy - A2.avi" version="BA"/>
+      <Video orientation="front" path="ohybné slovné druhy - B1.avi" version="KR"/>
+      <Video orientation="side" path="ohybné slovné druhy - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>opakovanie</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="opakovanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="opakovanie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>opozitá</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="opozitá - A1.avi" version="BA"/>
+      <Video orientation="side" path="opozitá - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>opytovacia veta</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="opytovacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="opytovacia veta - A2.avi" version="BA"/>
+      <Video orientation="front" path="opytovacia veta - B1.avi" version="KR"/>
+      <Video orientation="side" path="opytovacia veta - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>osnova</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="osnova - A1.avi" version="BA"/>
+      <Video orientation="side" path="osnova - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>osoba</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="osoba - A1.avi" version="BA"/>
+      <Video orientation="side" path="osoba - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>otcov</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="otcov - A1.avi" version="BA"/>
+      <Video orientation="side" path="otcov - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>oznamovacia veta</Name>
+    <FirstLetter>o</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="oznamovacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="oznamovacia veta - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>paródia</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="paródia - A1.avi" version="BA"/>
+      <Video orientation="side" path="paródia - A2.avi" version="BA"/>
+      <Video orientation="front" path="paródia - B1.avi" version="KR"/>
+      <Video orientation="side" path="paródia - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>plnovýznamová veta</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="plnovýznamová veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="plnovýznamová veta - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>podmet</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="podmet - A1.avi" version="BA"/>
+      <Video orientation="side" path="podmet - A2.avi" version="BA"/>
+      <Video orientation="front" path="podmet - B1.avi" version="KR"/>
+      <Video orientation="side" path="podmet - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>podstatné mená</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="podstatné mená - A1.avi" version="BA"/>
+      <Video orientation="side" path="podstatné mená - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>pravidlo</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="pravidlo - A1.avi" version="BA"/>
+      <Video orientation="side" path="pravidlo - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>predložka</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="predložka - A1.avi" version="BA"/>
+      <Video orientation="side" path="predložka - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>predmet</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="predmet - A1.avi" version="BA"/>
+      <Video orientation="side" path="predmet - A2.avi" version="BA"/>
+      <Video orientation="front" path="predmet - B1.avi" version="KR"/>
+      <Video orientation="side" path="predmet - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>priama reč</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="priama reč - A1.avi" version="BA"/>
+      <Video orientation="side" path="priama reč - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>prirovnanie</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="prirovnanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="prirovnanie - A2.avi" version="BA"/>
+      <Video orientation="front" path="prirovnanie - B1.avi" version="KR"/>
+      <Video orientation="side" path="prirovnanie - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>protiklad</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="protiklad - A1.avi" version="BA"/>
+      <Video orientation="side" path="protiklad - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>príbeh</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="príbeh - A1.avi" version="BA"/>
+      <Video orientation="side" path="príbeh - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>prídavné meno</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="prídavné meno - A1.avi" version="BA"/>
+      <Video orientation="side" path="prídavné meno - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>príklad</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="príklad - A1.avi" version="BA"/>
+      <Video orientation="side" path="príklad - A2.avi" version="BA"/>
+      <Video orientation="front" path="príklad - B1.avi" version="KR"/>
+      <Video orientation="side" path="príklad - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>prípona</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="prípona - A1.avi" version="BA"/>
+      <Video orientation="side" path="prípona - A2.avi" version="BA"/>
+      <Video orientation="front" path="prípona - B1.avi" version="KR"/>
+      <Video orientation="side" path="prípona - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>príslovkové určenie</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="príslovkové určenie - A1.avi" version="BA"/>
+      <Video orientation="side" path="príslovkové určenie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>príslovkové určenie miesta, času, spôsobu, príčiny</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="príslovkové určenie miesta, času, spôsobu, príčiny - A1.avi" version="BA"/>
+      <Video orientation="side" path="príslovkové určenie miesta, času, spôsobu, príčiny - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>prísudok</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="prísudok - A1.avi" version="BA"/>
+      <Video orientation="side" path="prísudok - A2.avi" version="BA"/>
+      <Video orientation="front" path="prísudok - B1.avi" version="KR"/>
+      <Video orientation="side" path="prísudok - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>prítomný čas</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="prítomný čas - A1.avi" version="BA"/>
+      <Video orientation="side" path="prítomný čas - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>prívlastok</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="prívlastok - A1.avi" version="BA"/>
+      <Video orientation="side" path="prívlastok - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>pád</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="pád - B1.avi" version="KR"/>
+      <Video orientation="side" path="pád - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>pád (pády)</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="pád (pády) - A1.avi" version="BA"/>
+      <Video orientation="side" path="pád (pády) - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>písanie</Name>
+    <FirstLetter>p</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="písanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="písanie - A2.avi" version="BA"/>
+      <Video orientation="front" path="písanie - B1.avi" version="KR"/>
+      <Video orientation="side" path="písanie - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>reč</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="reč - A1.avi" version="BA"/>
+      <Video orientation="side" path="reč - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>rod</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rod - A1.avi" version="BA"/>
+      <Video orientation="side" path="rod - A2.avi" version="BA"/>
+      <Video orientation="front" path="rod - B1.avi" version="KR"/>
+      <Video orientation="side" path="rod - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>román</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="román - A1.avi" version="BA"/>
+      <Video orientation="side" path="román - A2.avi" version="BA"/>
+      <Video orientation="front" path="román - B1.avi" version="KR"/>
+      <Video orientation="side" path="román - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>rozkazovacia veta</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rozkazovacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="rozkazovacia veta - A2.avi" version="BA"/>
+      <Video orientation="front" path="rozkazovacia veta - B1.avi" version="KR"/>
+      <Video orientation="side" path="rozkazovacia veta - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>rozprávka</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rozprávka - A1.avi" version="BA"/>
+      <Video orientation="side" path="rozprávka - A2.avi" version="BA"/>
+      <Video orientation="front" path="rozprávka - B1.avi" version="KR"/>
+      <Video orientation="side" path="rozprávka - B2.avi" version="KR"/>
+      <Video orientation="front" path="rozprávka - C1.avi" version="PO"/>
+      <Video orientation="side" path="rozprávka - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>rozvitá veta</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rozvitá veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="rozvitá veta - A2.avi" version="BA"/>
+      <Video orientation="front" path="rozvitá veta - B1.avi" version="KR"/>
+      <Video orientation="side" path="rozvitá veta - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>rytmické krátenie</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rytmické krátenie - A1.avi" version="BA"/>
+      <Video orientation="side" path="rytmické krátenie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>rytmus</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rytmus - A1.avi" version="BA"/>
+      <Video orientation="side" path="rytmus - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>rým</Name>
+    <FirstLetter>r</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="rým - A1.avi" version="BA"/>
+      <Video orientation="side" path="rým - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>samohlásky</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="samohlásky - A1.avi" version="BA"/>
+      <Video orientation="side" path="samohlásky - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>skloňovanie</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="skloňovanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="skloňovanie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>sloh</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="sloh - A1.avi" version="BA"/>
+      <Video orientation="side" path="sloh - A2.avi" version="BA"/>
+      <Video orientation="front" path="sloh - B1.avi" version="KR"/>
+      <Video orientation="side" path="sloh - B2.avi" version="KR"/>
+      <Video orientation="front" path="sloh - C1.avi" version="PO"/>
+      <Video orientation="side" path="sloh - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>slovenský jazyk</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="slovenský jazyk - A1.avi" version="BA"/>
+      <Video orientation="side" path="slovenský jazyk - A2.avi" version="BA"/>
+      <Video orientation="front" path="slovenský jazyk - B1.avi" version="KR"/>
+      <Video orientation="side" path="slovenský jazyk - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>slovesá</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="slovesá - A1.avi" version="BA"/>
+      <Video orientation="side" path="slovesá - A2.avi" version="BA"/>
+      <Video orientation="front" path="slovesá - B1.avi" version="KR"/>
+      <Video orientation="side" path="slovesá - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>slovná zásoba</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="slovná zásoba - A1.avi" version="BA"/>
+      <Video orientation="side" path="slovná zásoba - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>slovné druhy</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="slovné druhy - A1.avi" version="BA"/>
+      <Video orientation="side" path="slovné druhy - A2.avi" version="BA"/>
+      <Video orientation="front" path="slovné druhy - B1.avi" version="KR"/>
+      <Video orientation="side" path="slovné druhy - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>slovník</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="slovník - A1.avi" version="BA"/>
+      <Video orientation="side" path="slovník - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+  </Word>
+  <Word>
+    <Name>spodobovanie</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="spodobovanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="spodobovanie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>spojky</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="spojky - A1.avi" version="BA"/>
+      <Video orientation="side" path="spojky - A2.avi" version="BA"/>
+      <Video orientation="front" path="spojky - B1.avi" version="KR"/>
+      <Video orientation="side" path="spojky - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>spoluhlásky</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="spoluhlásky - A1.avi" version="BA"/>
+      <Video orientation="side" path="spoluhlásky - A2.avi" version="BA"/>
+      <Video orientation="front" path="spoluhlásky - B1.avi" version="KR"/>
+      <Video orientation="side" path="spoluhlásky - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>srdce</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="srdce - A1.avi" version="BA"/>
+      <Video orientation="side" path="srdce - A2.avi" version="BA"/>
+      <Video orientation="front" path="srdce - B1.avi" version="KR"/>
+      <Video orientation="side" path="srdce - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>stredný rod</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="stredný rod - A1.avi" version="BA"/>
+      <Video orientation="side" path="stredný rod - A2.avi" version="BA"/>
+      <Video orientation="front" path="stredný rod - B1.avi" version="KR"/>
+      <Video orientation="side" path="stredný rod - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>stroj</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="stroj - A1.avi" version="BA"/>
+      <Video orientation="side" path="stroj - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>stupňovanie</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="stupňovanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="stupňovanie - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>synonymá</Name>
+    <FirstLetter>s</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="synonymá - A1.avi" version="BA"/>
+      <Video orientation="side" path="synonymá - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>tempo</Name>
+    <FirstLetter>t</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="tempo - A1.avi" version="BA"/>
+      <Video orientation="side" path="tempo - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>text</Name>
+    <FirstLetter>t</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="text - A1.avi" version="BA"/>
+      <Video orientation="side" path="text - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>tragédia</Name>
+    <FirstLetter>t</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="tragédia - A1.avi" version="BA"/>
+      <Video orientation="side" path="tragédia - A2.avi" version="BA"/>
+      <Video orientation="front" path="tragédia - B1.avi" version="KR"/>
+      <Video orientation="side" path="tragédia - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>tvar</Name>
+    <FirstLetter>t</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="tvar - A1.avi" version="BA"/>
+      <Video orientation="side" path="tvar - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>ukazovacie zámená</Name>
+    <FirstLetter>u</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="ukazovacie zámená - A1.avi" version="BA"/>
+      <Video orientation="side" path="ukazovacie zámená - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>verš</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="verš - A1.avi" version="BA"/>
+      <Video orientation="side" path="verš - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>veta</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="veta - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>vetné členy</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="vetné členy - A1.avi" version="BA"/>
+      <Video orientation="side" path="vetné členy - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>vlastné mená</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="vlastné mená - A1.avi" version="BA"/>
+      <Video orientation="side" path="vlastné mená - A2.avi" version="BA"/>
+      <Video orientation="front" path="vlastné mená - B1.avi" version="KR"/>
+      <Video orientation="side" path="vlastné mená - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Lexika</Subcategory>
+  </Word>
+  <Word>
+    <Name>vybrané slová</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="vybrané slová - A1.avi" version="BA"/>
+      <Video orientation="side" path="vybrané slová - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>vylučovacia veta</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="vylučovacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="vylučovacia veta - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>vysvedčenie</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="vysvedčenie - A1.avi" version="BA"/>
+      <Video orientation="side" path="vysvedčenie - A2.avi" version="BA"/>
+      <Video orientation="front" path="vysvedčenie - B1.avi" version="KR"/>
+      <Video orientation="side" path="vysvedčenie - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>vzor</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="vzor - A1.avi" version="BA"/>
+      <Video orientation="side" path="vzor - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>výslovnosť</Name>
+    <FirstLetter>v</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="výslovnosť - A1.avi" version="BA"/>
+      <Video orientation="side" path="výslovnosť - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>zlučovacia veta</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="zlučovacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="zlučovacia veta - A2.avi" version="BA"/>
+      <Video orientation="front" path="zlučovacia veta - B1.avi" version="KR"/>
+      <Video orientation="side" path="zlučovacia veta - B2.avi" version="KR"/>
+      <Video orientation="front" path="zlučovacia veta - C1.avi" version="PO"/>
+      <Video orientation="side" path="zlučovacia veta - C2.avi" version="PO"/>
+      <Video orientation="front" path="zlučovacia veta - D1.avi" version="PO"/>
+      <Video orientation="side" path="zlučovacia veta - D2.avi" version="PO"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>znelá spoluhláska</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="znelá spoluhláska - A1.avi" version="BA"/>
+      <Video orientation="side" path="znelá spoluhláska - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Fonetika - Fonológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>zvolacia veta</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="zvolacia veta - A1.avi" version="BA"/>
+      <Video orientation="side" path="zvolacia veta - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Syntax</Subcategory>
+  </Word>
+  <Word>
+    <Name>zvratné zámená</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="zvratné zámená - A1.avi" version="BA"/>
+      <Video orientation="side" path="zvratné zámená - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>zámená</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="zámená - A1.avi" version="BA"/>
+      <Video orientation="side" path="zámená - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>záver</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="záver - A1.avi" version="BA"/>
+      <Video orientation="side" path="záver - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>úvod</Name>
+    <FirstLetter>u</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="úvod - A1.avi" version="BA"/>
+      <Video orientation="side" path="úvod - A2.avi" version="BA"/>
+      <Video orientation="front" path="úvod - B1.avi" version="KR"/>
+      <Video orientation="side" path="úvod - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+  <Word>
+    <Name>číslovky</Name>
+    <FirstLetter>c</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="číslovky - A1.avi" version="BA"/>
+      <Video orientation="side" path="číslovky - A2.avi" version="BA"/>
+      <Video orientation="front" path="číslovky - B1.avi" version="KR"/>
+      <Video orientation="side" path="číslovky - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>čítanie</Name>
+    <FirstLetter>c</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="čítanie - A1.avi" version="BA"/>
+      <Video orientation="side" path="čítanie - A2.avi" version="BA"/>
+      <Video orientation="front" path="čítanie - B1.avi" version="KR"/>
+      <Video orientation="side" path="čítanie - B2.avi" version="KR"/>
+      <Video orientation="front" path="čítanie - C1.avi" version="PO"/>
+      <Video orientation="side" path="čítanie - C2.avi" version="PO"/>
+    </Videos>
+    <Category>Literatúra</Category>
+  </Word>
+  <Word>
+    <Name>žena</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="žena - A1.avi" version="BA"/>
+      <Video orientation="side" path="žena - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>ženský rod</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="ženský rod - A1.avi" version="BA"/>
+      <Video orientation="side" path="ženský rod - A2.avi" version="BA"/>
+      <Video orientation="front" path="ženský rod - B1.avi" version="KR"/>
+      <Video orientation="side" path="ženský rod - B2.avi" version="KR"/>
+    </Videos>
+    <Category>Slovenský jazyk</Category>
+    <Subcategory>Morfológia</Subcategory>
+  </Word>
+  <Word>
+    <Name>životopis</Name>
+    <FirstLetter>z</FirstLetter>
+    <Videos>
+      <Video orientation="front" path="životopis - A1.avi" version="BA"/>
+      <Video orientation="side" path="životopis - A2.avi" version="BA"/>
+    </Videos>
+    <Category>Štylistika</Category>
+  </Word>
+</Dictionary>
